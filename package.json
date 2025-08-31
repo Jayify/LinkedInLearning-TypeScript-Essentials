@@ -1,0 +1,27 @@
+{
+  "name": "linkedinlearning-typescript-essentials",
+  "version": "1.0.0",
+  "description": "https://www.linkedin.com/learning/typescript-essential-training-14687057/learning-typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayify/LinkedInLearning-TypeScript-Essentials.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Jayify/LinkedInLearning-TypeScript-Essentials/issues"
+  },
+  "homepage": "https://github.com/Jayify/LinkedInLearning-TypeScript-Essentials#readme",
+  "dependencies": {
+    "typescript": "^5.9.2"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.33"
+  }
+}

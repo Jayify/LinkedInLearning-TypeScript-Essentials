@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "allowJs": true, // Allow JavaScript files to be compiled
+        "checkJs": true, // Report errors in JavaScript files
+        "outDir": "build",
+        "target": "ES6", // Or esnext when type checking with plugins like Babel
+        // "noEmit": true // Add if you want to check types without emitting/compiling files
+    },
+    "include": ["src/**/*"],
+}
