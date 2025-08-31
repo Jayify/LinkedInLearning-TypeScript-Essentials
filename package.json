@@ -18,10 +18,8 @@
     "url": "https://github.com/Jayify/LinkedInLearning-TypeScript-Essentials/issues"
   },
   "homepage": "https://github.com/Jayify/LinkedInLearning-TypeScript-Essentials#readme",
-  "dependencies": {
-    "typescript": "^5.9.2"
-  },
   "devDependencies": {
-    "@types/jquery": "^3.5.33"
+    "@types/jquery": "^3.5.33",
+    "typescript": "^5.9.2"
   }
 }
