@@ -1,7 +1,7 @@
 interface Contact {
     id: number;
     name: string;
-    birthDate?: Date; // Optional field
+    birthDate?: Date | string | number; // Optional field, accepts date, string, or number
     address?: AddressErrors;
     status: ContactStatus;
 }
